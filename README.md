@@ -1,6 +1,6 @@
-                            Build a JavaScript Calculator
-Design Preview url : https://js-calculator-zid.netlify.app/
-
+                             https://js-calculator-zid.netlify.app/
+                             
+Build a JavaScript Calculator
 
 Note: React 18 has known incompatibilities with the tests for this project (see issue)
 
